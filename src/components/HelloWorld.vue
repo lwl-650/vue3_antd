@@ -22,7 +22,6 @@ const count = ref(0);
     />
     <a-step title="Waiting" description="This is a description." />
   </a-steps>
-
   <h1>{{ msg }}</h1>
 
   <p>
